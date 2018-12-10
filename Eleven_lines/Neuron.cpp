@@ -224,13 +224,5 @@ void Neuron::train(unsigned int times, std::deque<std::deque<double>> & trainInp
    show(syn0);
    std::cout << "syn1" << std::endl;
    show(syn1);
-   //std::cout << "l1" << std::endl;
-   //show(l1);
-   //std::cout << "l2" << std::endl;
-   //show(l2);
-   //std::cout << "l2Error" << std::endl;
-   //show(l2Error);
-   //std::cout << "l1Error" << std::endl;
-   //show(l1Error);
 
 }
