@@ -1,4 +1,4 @@
-# Neural_Network
-Project of neural network/machine learning/AI
+# Python to C++ Code Translation
 
-Translating python machine learning code into C++ code
+Translated 11 lines of Python machinery coding into C++. Tested program by providing inputs and assessing results,
+training machine to recognize parameter weights and priorities to achieve same result in C++.
